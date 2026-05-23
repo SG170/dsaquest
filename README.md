@@ -30,3 +30,54 @@ A comprehensive, topic-wise Data Structures & Algorithms roadmap with curated pr
 ---
 
 ## 📁 Project Structure
+dsa-roadmap/
+├── client/         # React frontend
+├── server/         # Node.js + Express backend
+├── README.md
+├── CONTRIBUTING.md
+└── .gitignore
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v18+)
+- MongoDB
+- Git
+
+### Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/SG170/dsaquest.git
+cd dsa-roadmap
+
+# Setup frontend
+cd client
+npm install
+npm start
+
+# Setup backend (in a new terminal)
+cd server
+npm install
+npm run dev
+```
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions of all kinds!
+Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) before getting started.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+## 🌟 Acknowledgements
+
+Built with ❤️ as part of [Social Summer of Code (SSoC) Season 5](https://www.socialsummerofcode.com/)
