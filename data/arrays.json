@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Find Largest Element in Array",
+    "difficulty": "Easy",
+    "topic": "Arrays",
+    "description": "Find the largest element present in the given array."
+  },
+  {
+    "id": 2,
+    "title": "Reverse an Array",
+    "difficulty": "Easy",
+    "topic": "Arrays",
+    "description": "Reverse the elements of the given array."
+  },
+  {
+    "id": 3,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "topic": "Arrays",
+    "description": "Find two numbers in an array whose sum equals the target value."
+  }
+]
