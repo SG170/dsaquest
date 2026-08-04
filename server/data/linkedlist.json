@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Reverse Linked List",
+    "difficulty": "Easy",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Recursion", "Iteration"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/"
+  },
+  {
+    "id": 2,
+    "title": "Middle of the Linked List",
+    "difficulty": "Easy",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Two Pointers"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/"
+  },
+  {
+    "id": 3,
+    "title": "Linked List Cycle",
+    "difficulty": "Easy",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Fast & Slow Pointers", "Hashing"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/"
+  },
+  {
+    "id": 4,
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Merge", "Recursion"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/"
+  },
+  {
+    "id": 5,
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Two Pointers"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+  },
+  {
+    "id": 6,
+    "title": "Palindrome Linked List",
+    "difficulty": "Easy",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Stack", "Two Pointers"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/"
+  },
+  {
+    "id": 7,
+    "title": "Intersection of Two Linked Lists",
+    "difficulty": "Easy",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Hash Table", "Two Pointers"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+  },
+  {
+    "id": 8,
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Math", "Simulation"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/"
+  },
+  {
+    "id": 9,
+    "title": "Copy List with Random Pointer",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Hash Map"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+  },
+  {
+    "id": 10,
+    "title": "Sort List",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Merge Sort"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-list/"
+  },
+  {
+    "id": 11,
+    "title": "Rotate List",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Two Pointers"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-list/"
+  },
+  {
+    "id": 12,
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Recursion"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/"
+  },
+  {
+    "id": 13,
+    "title": "Partition List",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Partitioning"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/partition-list/"
+  },
+  {
+    "id": 14,
+    "title": "Reorder List",
+    "difficulty": "Medium",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Stack", "Two Pointers"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/reorder-list/"
+  },
+  {
+    "id": 15,
+    "title": "LRU Cache",
+    "difficulty": "Hard",
+    "platform": "LeetCode",
+    "topic": "Linked List",
+    "tags": ["Doubly Linked List", "Hash Map"],
+    "status": "Not Started",
+    "leetcodeUrl": "https://leetcode.com/problems/lru-cache/"
+  }
+]
